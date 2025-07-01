@@ -2,3 +2,5 @@ These are my practice notes on GitHub.
 - I created a repository
 - I edited the README
 - I am learning GitHub step by step!
+
+This line was added on the feature-update-notes branch.
